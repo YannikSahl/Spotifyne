@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotifyle", "Spotifyle.csproj", "{8A4A1691-C67A-436E-9F39-E442110E8BBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spotifyne", "Spotifyne.csproj", "{8A4A1691-C67A-436E-9F39-E442110E8BBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
